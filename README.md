@@ -15,7 +15,7 @@ Support:
 -------
 * config.py         - manage app configuration
 
-* data_base.pyt     - read and write app state data into a SqlLite Database
+* data_base.py      - read and write app state data into a SqlLite Database
                     - contains spark management
 
 Modules
