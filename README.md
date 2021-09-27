@@ -29,7 +29,6 @@ Modules
 
 * output.py         - write output data and metadata
 
-Output Folder
--------------
-Processed files
-
+Output
+------
+Processed files / output.7z
