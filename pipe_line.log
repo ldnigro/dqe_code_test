@@ -1,0 +1,9 @@
+2021-09-27 06:13:15 AM Start process 2021-09-27.
+2021-09-27 06:13:24 AM Error [data_file_20210728182844.csv is empty file.] processing: data_file_20210728182844.csv
+2021-09-27 06:13:24 AM Start process: data_file_20210528182844.csv
+2021-09-27 06:14:40 AM End process: data_file_20210528182844.csv
+2021-09-27 06:14:40 AM Start process: data_file_20210527182730.csv
+2021-09-27 06:15:40 AM End process: data_file_20210527182730.csv
+2021-09-27 06:15:40 AM Start process: data_file_20210528182554.csv
+2021-09-27 06:16:42 AM End process: data_file_20210528182554.csv
+2021-09-27 06:16:42 AM Finish process 2021-09-27.
